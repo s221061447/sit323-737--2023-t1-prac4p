@@ -1,0 +1,7 @@
+{"level":"error","message":"Error performing requested operation due to invalid inputs: 4, a","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: 4, a","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: 4, a","service":"calculator-microservice"}

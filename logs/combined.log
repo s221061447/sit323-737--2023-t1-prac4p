@@ -1,0 +1,41 @@
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 4 addition by 2","service":"calculator-microservice"}
+{"level":"info","message":"addition operation successful: 4 addition by 2","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 4 subtraction by 2","service":"calculator-microservice"}
+{"level":"info","message":"subtraction operation successful: 4 subtraction by 2","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 4 multiplication by 2","service":"calculator-microservice"}
+{"level":"info","message":"multiplication operation successful: 4 multiplication by 2","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 4 division by 2","service":"calculator-microservice"}
+{"level":"info","message":"division operation successful: 4 division by 2","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 4 division by a","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: 4, a","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: a division by 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: a multiplication by 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: a subtraction by 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: a addition by 2","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: a, 2","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"App listening on port: 3030","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 4 addition by 2","service":"calculator-microservice"}
+{"level":"info","message":"addition operation successful: 4 addition by 2","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 4 addition by a","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: 4, a","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 4 addition by a","service":"calculator-microservice"}
+{"level":"error","message":"Error performing requested operation due to invalid inputs: 4, a","service":"calculator-microservice"}
